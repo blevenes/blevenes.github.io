@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://blevenes.github.io/sitemap.html.gz
+Sitemap: https://blevenes.github.io/app/sitemap.html.gz
+Sitemap: https://blevenes.github.io/assets/sitemap.html.gz
+Sitemap: https://blevenes.github.io/css/sitemap.html.gz
+Sitemap: https://blevenes.github.io/includes/sitemap.html.gz
+Sitemap: https://blevenes.github.io/item/sitemap.html.gz
+Sitemap: https://blevenes.github.io/src/sitemap.html.gz
